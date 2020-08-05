@@ -1,0 +1,4 @@
+A abd D : Walk
+J: Collect/interact/Buy
+K: Close shop
+R: Restart
